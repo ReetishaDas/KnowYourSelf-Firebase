@@ -1,10 +1,11 @@
-# homely_assignment
+# Know Yourself
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+It collects all the data that you tap on / enter and saves it to the firebase database
 
 A few resources to get you started if this is your first Flutter project:
 
